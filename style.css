@@ -1,0 +1,143 @@
+.container{
+    margin-bottom: 100px;
+}
+.top-header{
+    width: 1440px;
+    height: 576px;
+    left: 0px;
+    top: 0px;
+    background-color:#F0FFF0 ;
+    margin-bottom: 100px;
+    padding-left: 110px;
+    padding-right: 110px;
+}
+.logo{
+    width:198.07px ;
+    height:59px ;
+}
+.button{
+    border: none;
+    width: 104px;
+    height: 43px;
+    color: #FFFFFF;
+    background-color: #21B573;
+    border-radius: 33px;
+}
+h6{
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 40px;
+    line-height: 70px;
+}
+#start-button{
+    width: 153px;
+}
+.header-image{
+    width: 549px;
+    height: 341px;
+}
+.header-2ndpart{
+    margin-top: 50px;
+}
+.schedule{
+    color: #21B573;
+}
+#pre-1{
+    color: #FD511A;
+}
+.categoris img{
+    width: 66px;
+    height: 75px;
+}
+.categoris h1{
+    color: #413960;
+    font-weight: 500;
+    font-size: 24px;
+}
+.categoris p{
+    color: #585859;
+}
+.cat1, .cat2, .cat3, .cat4{
+    border: 10px;
+}
+
+.cat1{
+    width: 270px;
+    height: 270px;
+    border-radius: 10px;
+    background-color:#F8FFFB ;
+}
+.cat2{
+    width: 270px;
+    height: 270px;
+    border-radius: 10px;
+    box-shadow: 0px 20px 40px rgba(0, 0, 0, 0.1);
+    background-color: #FFFFFF;
+}
+.cat3{
+    width: 270px;
+    height: 270px;
+    border-radius: 10px;
+    background-color:#F8FFFB ;
+}
+.cat4{
+    width: 270px;
+    height: 270px;
+    border-radius: 10px;
+    background-color:#F8FFFB ;
+}
+.course h1{
+    color: #413960;    
+}
+.card-button{
+    width: 137px;
+    height: 35px;
+    border: none;
+    border-radius: 33px;
+    color: #FFFFFF;
+    background-color: #21B573;
+}
+.card-footer img{
+    width: 24px;
+    height: 24px;
+}
+.card-footer p{
+    width: 146px;
+    height: 24px;
+    color: #585859;
+}
+.card-footer{
+    background-color: #FFFFFF;
+    border-top: none;
+}
+.cards{
+    box-shadow: 0px 10px 40px rgba(0, 0, 0, 0.1);
+    border-radius: 18px;
+}
+.tstimonial{
+    color: #000000;
+}
+.last-photo{
+    width: 120px;
+    height: 120px;
+}
+.last-para{
+    width: 580px;
+    height: 90px;
+    Weight: 400;
+    line-height: 30px;
+}
+footer{
+    width: 1440px;
+    height: 370px;
+    background-color: #282531;
+}
+footer p, b{
+    color: #FFFFFF;
+}
+.footer{
+    padding-top: 50px;
+    padding-left: 70px;
+    padding-right: 70px;
+}
